@@ -12,7 +12,6 @@
     <PackageReference Include="Newtonsoft.Json" Version="9.0.1" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibraryNetFramework1\ClassLibraryNetFramework1.csproj" />
     <ProjectReference Include="..\ClassLibraryNetStandard\ClassLibraryNetStandard.csproj" />
   </ItemGroup>
 </Project>
